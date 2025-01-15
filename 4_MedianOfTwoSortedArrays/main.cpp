@@ -6,8 +6,8 @@ double medianSortedArray(vector<int>& arr);
 int max(int n1, int n2);
 
 int main() {
-    std::vector<int> arr1; // Empty array
-    std::vector<int> arr2 = {1}; // Array with one element
+    vector<int> arr1;
+    vector<int> arr2 = {1};
 
     double median = findMedianSortedArrays(arr1, arr2);
 
