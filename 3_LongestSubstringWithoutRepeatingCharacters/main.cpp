@@ -3,7 +3,7 @@ using namespace std;
 #include <unordered_map>
 
 //can be more efficient by using a sliding window approach, this is by
-//having the hashmap be of char, last index. and saving a start and end of longest substring (window).
+//having the hashmap be of char, last index. and saving a start and end of longest substring (window). 
 
 int lengthOfLongestSubstring(string s) {
     unordered_map<char, bool> map;
