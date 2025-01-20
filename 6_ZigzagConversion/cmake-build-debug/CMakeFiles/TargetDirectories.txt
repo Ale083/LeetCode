@@ -1,0 +1,3 @@
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/6_ZigzagConversion/cmake-build-debug/CMakeFiles/6_ZigzagConversion.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/6_ZigzagConversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/6_ZigzagConversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
