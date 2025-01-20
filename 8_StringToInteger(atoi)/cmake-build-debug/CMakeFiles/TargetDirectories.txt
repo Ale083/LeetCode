@@ -1,0 +1,3 @@
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/8_StringToInteger(atoi)/cmake-build-debug/CMakeFiles/8_StringToInteger_atoi_.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/8_StringToInteger(atoi)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/8_StringToInteger(atoi)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

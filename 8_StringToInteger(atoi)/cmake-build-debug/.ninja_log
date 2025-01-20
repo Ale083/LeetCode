@@ -1,0 +1,21 @@
+# ninja log v6
+2	508	7591019212871265	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+510	855	7591019217945983	8_StringToInteger_atoi_.exe	c374089c5af22877
+24	496	7591020167369508	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+497	605	7591020172107701	8_StringToInteger_atoi_.exe	c374089c5af22877
+25	474	7591024188637867	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+474	594	7591024193126783	8_StringToInteger_atoi_.exe	c374089c5af22877
+26	485	7591024715506388	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+486	602	7591024720107329	8_StringToInteger_atoi_.exe	c374089c5af22877
+24	533	7591026301302190	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+533	658	7591026306396427	8_StringToInteger_atoi_.exe	c374089c5af22877
+30	578	7591034424934212	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+579	720	7591034430416559	8_StringToInteger_atoi_.exe	c374089c5af22877
+24	570	7591039332830956	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+570	688	7591039338293261	8_StringToInteger_atoi_.exe	c374089c5af22877
+34	575	7591043990705358	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+575	707	7591043996114284	8_StringToInteger_atoi_.exe	c374089c5af22877
+28	588	7591044535710555	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+588	698	7591044541314396	8_StringToInteger_atoi_.exe	c374089c5af22877
+5	557	7591045329719727	CMakeFiles/8_StringToInteger_atoi_.dir/main.cpp.obj	fb4ac88e2b925039
+558	676	7591045335245559	8_StringToInteger_atoi_.exe	c374089c5af22877
