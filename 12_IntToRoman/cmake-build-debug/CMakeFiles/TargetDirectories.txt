@@ -1,0 +1,3 @@
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/12_IntToRoman/cmake-build-debug/CMakeFiles/12_IntToRoman.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/12_IntToRoman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/12_IntToRoman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
