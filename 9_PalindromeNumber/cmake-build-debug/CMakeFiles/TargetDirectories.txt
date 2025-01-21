@@ -1,0 +1,3 @@
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/9_PalindromeNumber/cmake-build-debug/CMakeFiles/9_PalindromeNumber.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/9_PalindromeNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Proyecto Diseño/Documents/GitHub/LeetCode/9_PalindromeNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
