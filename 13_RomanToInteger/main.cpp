@@ -5,6 +5,8 @@ int main() {
     return 0;
 }
 
+    //Do agree it would've been cleaner with switch case, mb.
+
 int romanToInt(string s) {
     int result = 0;
     for (int i = 0; i < s.size(); i++) {
