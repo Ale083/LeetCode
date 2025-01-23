@@ -1,23 +1,24 @@
 #include <iostream>
 #include <vector>
+#include <unordered_map>
 using namespace std;
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char** argv) {
+vector<int> twoSum(vector<int>& nums, int target);
+
+int main() {
     return 0;
 }
 
-class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        for(int i = 0; i<= nums.size();i++){
-            for(int j=i+1; i<= nums.size(); j++){
-                if(nums[i] + nums[j] == target){
-                    return {i,j};
-                }
-            }
-        }
-
+vector<int> twoSum(vector<int>& nums, int target) {
+    unordered_map<int,int> map;
+    for(int i = 0; i < nums.size(); i++) {
+        map[nums[i]] = i;
     }
-
-};
+    for(int i = 0; i < nums.size(); i++) {
+        int n = target - nums[i];
+        if(map.count(n) && map[n] != i) {
+            return {i, map[n]};
+        }
+    }
+    return {};
+}
